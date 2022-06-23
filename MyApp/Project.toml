@@ -1,0 +1,4 @@
+name = "MyApp"
+uuid = "bcd64079-904a-4321-942e-58884cfa0a5f"
+authors = ["prism0x <mathblocksio@gmail.com>"]
+version = "0.1.0"
